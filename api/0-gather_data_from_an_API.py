@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """Python script that returns TODO list progress for a given employee ID
 """
 import json
